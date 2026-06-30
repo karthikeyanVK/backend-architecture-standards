@@ -1,0 +1,8 @@
+{
+  "name": "backend-architecture-standards-skill",
+  "version": "1.0.0",
+  "bin": {
+    "backend-architecture-standards-skill": "./bin/install.js"
+  },
+  "files": ["bin", "skill"]
+}
